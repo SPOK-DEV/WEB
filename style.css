@@ -1,0 +1,60 @@
+header {
+  background-color: #e1e6fb;
+  color:#ae1d33;
+  text-align: center;
+  font-size: 25px;
+}
+#header2 {
+  background-color: #e1e6fb;
+  color:#ae1d33;
+  text-align: center;
+  font-size: 25px;
+}
+
+#sec{
+ margin: 20px;
+  display: table-cell;
+  background-color: #febecc;
+}
+
+#haut{
+  background-color: #808080;
+  padding: 10px;
+}
+
+#coté {
+  display: table-cell;
+  float: left;
+  padding-left: 1%;
+  background-color: #ffff00;
+  width: 15%;
+  height: 86%;
+}
+
+#Amazon{
+  font-size: 20px;
+  background-color: #90ee90;
+  display: inline-block;
+  border-radius: 5px;
+  padding: 7px;
+  margin: 10px;
+}
+
+#Google{
+  font-size: 20px;
+  background-color: #90ee90;
+  display: inline-block;
+  border-radius: 5px;
+
+  padding: 7px;
+}
+
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #e2e6f9;
+  text-align: center;
+}
